@@ -3,7 +3,7 @@
 # Book trend analysis 
 
 
-![[bookAnalysis.png]]
+![book dashboard](bookAnalysis.png)
 
 
 ## Background and overview 
